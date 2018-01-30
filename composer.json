@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/support": "^5.5",
+        "zendframework/zend-code": "^3.1"
+    }
+}

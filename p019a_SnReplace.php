@@ -18,6 +18,7 @@
  * output argument.
  *
  */
+include 'Helpers.php';
 
 if(count($argv)!==5){
     print_to_screen('This script requires 4 arguments eg `php p019a_SnReplace.php original.php search.php replace.php output.php`','error',true);
@@ -43,7 +44,7 @@ if(!$original_contents || !$search_string || !$replace_string){
 
 $output_string = str_replace($search_string,$replace_string,$original_contents);
 
-if($output_string == $original_contents){
+if($output_string === $original_contents){
     print_to_screen('No replacements were made.','error',true);
 }
 

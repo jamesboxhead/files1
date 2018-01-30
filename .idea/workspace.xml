@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2beea26a-bd74-401a-8a48-c0273ca57e12" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/copy_blade_orginal_for_test_21795.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test14479.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test17448.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test1.php" afterPath="$PROJECT_DIR$/tests/test1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test2.php" afterPath="$PROJECT_DIR$/tests/test2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p019a_SnReplace.php" afterPath="$PROJECT_DIR$/p019a_SnReplace.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="p019a_SnReplace.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="p019a_SnReplace.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/p019a_SnReplace.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="342">
+              <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -39,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test2.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
@@ -93,9 +89,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/p019a_SnReplace.php" />
         <option value="$PROJECT_DIR$/tests/test1.php" />
         <option value="$PROJECT_DIR$/tests/test2.php" />
+        <option value="$PROJECT_DIR$/p019a_SnReplace.php" />
       </list>
     </option>
   </component>
@@ -137,6 +133,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jamesboxhead" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jamesboxhead" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jamesboxhead" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,12 +254,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517288950404</updated>
-      <workItem from="1517288951541" duration="2367000" />
+      <workItem from="1517288951541" duration="2624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2367000" />
+    <option name="totallyTimeSpent" value="2624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1151" y="4" width="2285" height="1400" extended-state="0" />
@@ -333,14 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p019a_SnReplace.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -353,6 +355,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p019a_SnReplace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
           <folding />
         </state>
       </provider>

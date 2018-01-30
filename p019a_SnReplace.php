@@ -4,6 +4,19 @@
  * User: iammikeym
  * Date: 30/01/18
  * Time: 05:09
+ *
+ * Usage Note:
+ *
+ * The script should be called using PHP CLI by running the command
+ *
+ * `php p019a_SnReplace.php tests/blade_orginal.php tests/blade_search.php tests/blade_replace.php output.php`
+ *
+ * The file names are referential and can be pointed to any file accessible to the user calling the script.
+ *
+ * The output file is also referential and can be pointed to any path/filename.php required.
+ * It can also be used to overwrite the original.php file by passing the same path in the
+ * output argument.
+ * 
  */
 
 if(count($argv)!==5){

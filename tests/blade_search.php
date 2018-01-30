@@ -1,0 +1,1 @@
+<a href="{{ route('admin.graph_set_1s.index') }}">

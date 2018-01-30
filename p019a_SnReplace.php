@@ -16,7 +16,7 @@
  * The output file is also referential and can be pointed to any path/filename.php required.
  * It can also be used to overwrite the original.php file by passing the same path in the
  * output argument.
- * 
+ *
  */
 
 if(count($argv)!==5){
@@ -42,6 +42,10 @@ if(!$original_contents || !$search_string || !$replace_string){
 }
 
 $output_string = str_replace($search_string,$replace_string,$original_contents);
+
+if($output_string == $original_contents){
+    print_to_screen('No replacements were made.','error',true);
+}
 
 if(!file_put_contents($output_file,$output_string)){
     print_to_screen('Unable to write to the output file.','error',true);

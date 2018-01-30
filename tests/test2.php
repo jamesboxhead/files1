@@ -1,11 +1,11 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: mike
+ * User: iammikeym
  * Date: 30/01/18
  * Time: 05:45
  *
- * Test can be run using `php tests/test1.php` from the root
+ * Test can be run using `php tests/test2.php` from the root
  *
  * Test 1
  *
